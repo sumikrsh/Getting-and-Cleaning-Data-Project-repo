@@ -24,7 +24,7 @@ Also refer to the CodeBook.md to understand details about the variables.
 
 Outputs of the assignment
 -------------------------
-- Tidy data matrix - In order to look at the final tidy data uploaded, please use command - read.table("./data/tidyresult.txt", header = TRUE)
+- Tidy data matrix - In order to look at the final tidy data uploaded, please use command - read.table(filepath, header = TRUE)
 
 - Files run_analysis.R, Readme.md and CodeBook.md are available in https://github.com/sumikrsh/Getting-and-Cleaning-Data-Project-repo. 
 
