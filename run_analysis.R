@@ -1,6 +1,8 @@
 ## This code is the analysis script to transform given input data into a tidy data
 ## matrix by using listed 5 steps. 
 
+library(dplyr)
+
 #######################################################################
 ## Step 1.Merges the training and the test sets to create one data set.
 #######################################################################
